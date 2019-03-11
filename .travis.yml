@@ -4,4 +4,4 @@ python:
 before_script:
   cd rpn
 script:
-  python test_rpn.py
+  python -m unittest
