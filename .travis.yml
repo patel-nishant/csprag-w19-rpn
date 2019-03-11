@@ -2,6 +2,6 @@ language: python
 python:
   - "3.5"
 before_script:
-  cd project
+  cd rpn
 script:
   python test_rpn.py
